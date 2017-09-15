@@ -1,0 +1,40 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     1136 MB
+    Driver:   10.18.10.3308
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\GameDev\Baloon\CompiledGame\Baloon_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\GameDev\Baloon\CompiledGame\Baloon_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\GameDev\Baloon\CompiledGame\Baloon_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\GameDev\Baloon\CompiledGame\Baloon_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\GameDev\Baloon\CompiledGame\Baloon_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\GameDev\Baloon\CompiledGame\Baloon_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\GameDev\Baloon\CompiledGame\Baloon_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\GameDev\Baloon\CompiledGame\Baloon_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.032 seconds
+Platform assembly: D:\GameDev\Baloon\CompiledGame\Baloon_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\GameDev\Baloon\CompiledGame\Baloon_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 2.287411 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.423372 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 328.
+Total: 0.319869 ms (FindLiveObjects: 0.047039 ms CreateObjectMapping: 0.032927 ms MarkObjects: 0.218093 ms  DeleteObjects: 0.020526 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.613226 ms
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 278.
+Total: 0.499048 ms (FindLiveObjects: 0.074408 ms CreateObjectMapping: 0.039342 ms MarkObjects: 0.242895 ms  DeleteObjects: 0.141119 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1700 -> priority: 1 
+  Thread -> id: 1104 -> priority: 1 
